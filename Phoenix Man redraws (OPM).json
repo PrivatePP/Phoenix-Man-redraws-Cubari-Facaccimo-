@@ -5,12 +5,20 @@
   "author": "ONE",
   "cover": "https://i.imgur.com/VpwmxP0.png",
   "chapters": {
-    "98": {
+    "1": {
       "title": "98 - Tears of Regret (v1)",
       "volume": "",
-      "last_updated": "1639067485",
+      "last_updated": "1639067682",
       "groups": {
-        "": "https://imgur.com/a/7secAVn"
+        "": "/proxy/api/imgur/chapter/7secAVn"
+      }
+    },
+    "2": {
+      "title": "98 - Tears of Regret (v2)",
+      "volume": "",
+      "last_updated": "1639067788",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/QAaKllX"
       }
     }
   }
