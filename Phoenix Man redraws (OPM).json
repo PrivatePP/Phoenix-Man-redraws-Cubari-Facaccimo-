@@ -4,5 +4,14 @@
   "artist": "Yusuke Murata",
   "author": "ONE",
   "cover": "https://i.imgur.com/VpwmxP0.png",
-  "chapters": {}
+  "chapters": {
+    "98": {
+      "title": "98 - Tears of Regret (v1)",
+      "volume": "",
+      "last_updated": "1639067485",
+      "groups": {
+        "": "https://imgur.com/a/7secAVn"
+      }
+    }
+  }
 }
