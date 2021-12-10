@@ -1,0 +1,19 @@
+{
+  "title": "Test",
+  "description": "",
+  "artist": "",
+  "author": "",
+  "cover": "",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1639143704",
+      "groups": {
+        "": [
+          "https://imgur.com/gallery/4x3l9Lo"
+        ]
+      }
+    }
+  }
+}
